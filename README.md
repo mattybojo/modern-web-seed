@@ -2,6 +2,10 @@
 
 A reference project which demonstrates a development workflow for building web applications using AngularJS, Bootstrap3, Gulp, Jasmine, JSHint, Karma, SASS.
 
+Dependencies updates: 9/28/17
+Project based on: https://github.com/cjus/modern-web-seed
+Extended docs: https://github.com/cjus/modern-web-seed/blob/master/extended-docs.md
+
 ## Yet another seed app?
 
 A few years ago I started using [Yeoman](http://yeoman.io/) and the [angular-generator](generator-angular) to create starting points for my web projects. It seems that each time I prepare a new project I'd encounter issues during the seed app creation. One feature or another would be out of date or no longer working.  To be fair, all of the underlying tools and technologies are undergoing very active development. So at any given point grabbing the latest release can be risky.
