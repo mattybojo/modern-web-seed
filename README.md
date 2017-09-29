@@ -2,9 +2,9 @@
 
 A reference project which demonstrates a development workflow for building web applications using AngularJS, Bootstrap3, Gulp, Jasmine, JSHint, Karma, SASS.
 
-Dependencies updates: 9/28/17
-Project based on: https://github.com/cjus/modern-web-seed
-Extended docs: https://github.com/cjus/modern-web-seed/blob/master/extended-docs.md
+* Dependencies updates: 9/28/17
+* Project based on: https://github.com/cjus/modern-web-seed
+* Extended docs: https://github.com/cjus/modern-web-seed/blob/master/extended-docs.md
 
 ## Yet another seed app?
 
